@@ -38,7 +38,7 @@
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service</applicationName>
 				<password>ennVee@1234</password>
-				<muleVersion>${mule.version}</muleVersion>
+				<muleVersion>4.1.4</muleVersion>
 				<uri>https://anypoint.mulesoft.com/</uri>
 				</cloudHubDeployment>
 				</configuration>

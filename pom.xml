@@ -33,7 +33,7 @@
 				<configuration>
 				<cloudHubDeployment>
 				<username>jyotitest17</username>
-				<environment>SANDBOX</environment>
+				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service</applicationName>

@@ -32,7 +32,6 @@
 				<extensions>true</extensions>
 				<configuration>
 		<cloudHubDeployment>
-		  <deploymentType>cloudhub</deploymentType>
           <muleVersion>4.1.4</muleVersion> 
           <username>jyotitest17</username> 
           <password>ennVee@1234</password> 

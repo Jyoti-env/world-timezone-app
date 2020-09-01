@@ -35,7 +35,7 @@
           <muleVersion>4.1.4</muleVersion> 
           <username>jyotitest18</username> 
           <password>ennVee@1234</password> 
-          <applicationName>world-demo-app</applicationName>
+          <applicationName>world-timezone-app</applicationName>
           <environment>Sandbox</environment> 
           <uri>https://anypoint.mulesoft.com</uri> 
           <workerType>Micro</workerType>

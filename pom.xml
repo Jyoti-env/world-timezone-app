@@ -33,7 +33,7 @@
 				<configuration>
 		<cloudHubDeployment>
           <muleVersion>4.1.4</muleVersion> 
-          <username>jyotitest17</username> 
+          <username>jyotitest18</username> 
           <password>ennVee@1234</password> 
           <applicationName>world-demo-app</applicationName>
           <environment>Sandbox</environment> 
